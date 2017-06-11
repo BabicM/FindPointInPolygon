@@ -12,3 +12,5 @@ $polygon->isPointInPolygon([3, 3.5]); // point on edge. based on constructor att
 $polygon->isPointInPolygon([4, 5]); // false
 $polygon->isPointInPolygon([1.5, 3]); // false
 ```
+
+![alt text](https://github.com/BabicM/FindPointInPolygon/blob/master/points.png)
